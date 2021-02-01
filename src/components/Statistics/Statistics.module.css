@@ -1,0 +1,9 @@
+.statisticList {
+  list-style: none;
+  font-size: 22px;
+  padding: 0;
+  margin: 10px;
+}
+.positivefeed {
+  font-weight: 700;
+}
